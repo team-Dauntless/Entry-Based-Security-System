@@ -20,7 +20,7 @@ OpenCV module:
 
 
 #### Non-Functional Requirements
-<br>●	Videos have to be less than and equal to 10sec and recorded in mobile with vertical alignment
+●	Videos have to be less than and equal to 10sec and recorded in mobile with vertical alignment
 <br>●	Model update daily at 9 pm means new user recognize after 9 pm
 <br>●	All capture images deleted after train the model
 <br>●	mobile minSDk=29 to install the app
