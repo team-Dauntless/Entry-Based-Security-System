@@ -31,4 +31,4 @@ OpenCV module:
 ## Queries/Feedback:
 - [Devansh Kaushik](https://www.linkedin.com/in/devansh-kaushik-b5912b174/)
 - [Diwakar Srivastava](https://github.com/Diwakar012)
-- [Deepak Kumar] (https://www.linkedin.com/in/deepak-kumar-548122168/)
+- [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-548122168/)
