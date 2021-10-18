@@ -1,4 +1,4 @@
-# Entry-Based-Security-System
+## Entry-Based-Security-System
 
 ## Requirements
 #### Functional Requirements:
